@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jerichothomason/innovation_lab1.git/static/css/main.ea52cdd4.chunk.css",
+    "main.js": "/Jerichothomason/innovation_lab1.git/static/js/main.998baaa0.chunk.js",
+    "main.js.map": "/Jerichothomason/innovation_lab1.git/static/js/main.998baaa0.chunk.js.map",
+    "runtime-main.js": "/Jerichothomason/innovation_lab1.git/static/js/runtime-main.b6c174c7.js",
+    "runtime-main.js.map": "/Jerichothomason/innovation_lab1.git/static/js/runtime-main.b6c174c7.js.map",
+    "static/js/2.d13cb71e.chunk.js": "/Jerichothomason/innovation_lab1.git/static/js/2.d13cb71e.chunk.js",
+    "static/js/2.d13cb71e.chunk.js.map": "/Jerichothomason/innovation_lab1.git/static/js/2.d13cb71e.chunk.js.map",
+    "index.html": "/Jerichothomason/innovation_lab1.git/index.html",
+    "precache-manifest.b4a384ecf987c8f311eecbbb3d4b0354.js": "/Jerichothomason/innovation_lab1.git/precache-manifest.b4a384ecf987c8f311eecbbb3d4b0354.js",
+    "service-worker.js": "/Jerichothomason/innovation_lab1.git/service-worker.js",
+    "static/css/main.ea52cdd4.chunk.css.map": "/Jerichothomason/innovation_lab1.git/static/css/main.ea52cdd4.chunk.css.map",
+    "static/js/2.d13cb71e.chunk.js.LICENSE.txt": "/Jerichothomason/innovation_lab1.git/static/js/2.d13cb71e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c174c7.js",
+    "static/js/2.d13cb71e.chunk.js",
+    "static/css/main.ea52cdd4.chunk.css",
+    "static/js/main.998baaa0.chunk.js"
+  ]
+}
